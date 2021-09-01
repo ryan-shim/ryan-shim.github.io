@@ -21,5 +21,6 @@
 }
 
 .message {
-    max-width: 28.125rem;
+    font-size: 1.125rem;
+    max-width: 32rem;
 }
